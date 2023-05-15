@@ -4,4 +4,4 @@ seaborn
 matplotlib
 sklearn
 # catboost
-# -e .
+-e .
