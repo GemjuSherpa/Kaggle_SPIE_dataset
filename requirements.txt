@@ -1,8 +1,10 @@
 pandas
 numpy
+dill
 seaborn
 matplotlib
 scikit-learn
 # catboost
 # xgboost
+Flask
 # -e .
